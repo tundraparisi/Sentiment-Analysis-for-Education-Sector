@@ -1,0 +1,12 @@
+#Project Dependencies List
+
+pandas
+data-table
+matplotlib
+numpy
+nltk
+seaborn
+transformers
+scipy
+tqdm
+
